@@ -1,8 +1,8 @@
 name: flutter_utils
 description: This library encapsulates the functions that commonly used in Flutter development which have.
 version: 0.0.1
-author:
-homepage:
+author: Ali Anıl Koçak<alianilkocak@gmail.com>
+homepage: https://github.com/AliAnilKocak/Flutter_Utils
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
